@@ -1,2 +1,2 @@
-# Predicciones-y-An-lisis-de-Ventas
+# Predicciones-y-Analisis-de-Ventas
 Predicción de Ventas 
